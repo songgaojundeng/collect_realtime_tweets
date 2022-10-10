@@ -1,0 +1,79 @@
+health
+acne
+AIDS
+allergic
+reaction
+allergy
+sickness
+amnesia
+arthritis
+asthma
+backache
+bleeding
+blister
+boil
+bronchitis
+bruise
+cancer
+chest pain
+cold
+cold sore
+conjunctivitis
+cramp
+cough
+dehydration
+diabetes
+diarrhoea
+disease
+dizziness
+earache
+eating disorder
+eczema
+fever
+flu
+food poisoning
+fracture
+glandular fever
+gout
+graze
+alopecia
+headache
+heart attack
+heart disease
+heartburn
+heat stroke
+hernia
+high blood pressure
+hypertension
+HIV
+hypothermia
+infection
+inflammation
+injury
+leukaemia
+low blood pressure
+hypotension
+lump
+malaria
+migraine
+nausea
+nosebleed
+pneumonia
+polio
+rabies
+rash
+rheumatism
+schizophrenia
+sore throat
+STI
+stomach ache
+swelling
+tonsillitis
+tuberculosis
+typhoid
+ulcer
+virus
+wart
+mortality
+fatality
+influenza
