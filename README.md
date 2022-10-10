@@ -19,5 +19,22 @@ python get_crime.py
 python get_health.py
 ``` 
 
+*data in `crime/` and `health/` are in JSON format*
+```python
+columns (text or extended_tweet['full_text'])
+	Index(['created_at', 'id', 'id_str', 'text', 'source', 'truncated',
+       'in_reply_to_status_id', 'in_reply_to_status_id_str',
+       'in_reply_to_user_id', 'in_reply_to_user_id_str',
+       'in_reply_to_screen_name', 'user', 'geo', 'coordinates', 'place',
+       'contributors', 'retweeted_status', 'is_quote_status', 'quote_count',
+       'reply_count', 'retweet_count', 'favorite_count', 'entities',
+       'favorited', 'retweeted', 'filter_level', 'lang', 'timestamp_ms',
+       'possibly_sensitive', 'extended_entities', 'display_text_range',
+       'extended_tweet', 'quoted_status_id', 'quoted_status_id_str',
+       'quoted_status', 'quoted_status_permalink', 'withheld_in_countries',
+       'limit'],
+      dtype='object')
+```
+      
 ### 3. Customization ###
 Create your own `words_about_XXX.txt` and `get_XXX.py`.
